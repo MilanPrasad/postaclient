@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response uri="/crm/private/xml/Contacts/getRecords"><result><Contacts><row no="1"><FL val="CONTACTID">2440108000001024001</FL><FL val="Email"><![CDATA[accounts@novastar.ae]]></FL><FL val="Salesperson Code"><![CDATA[null]]></FL></row></Contacts></result></response>
